@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PRJ_Oscillators")(type "KiCad")(uri "${KIPRJMOD}/parts/ECS_100A_251_7")(options "")(descr ""))
+  (lib (name "PRJ_Connectors")(type "KiCad")(uri "${KIPRJMOD}/footprints/connectors.pretty")(options "")(descr ""))
+)
