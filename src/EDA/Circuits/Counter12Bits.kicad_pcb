@@ -17207,7 +17207,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "~{LOAD}\n4-7"
+	(gr_text "~{LD}\n4-7"
 		(at 83.058 87.884 0)
 		(layer "F.SilkS")
 		(uuid "0a126075-a2be-42b3-9ba7-394dc37aeb18")
@@ -17567,7 +17567,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "~{LOAD}\n8-11"
+	(gr_text "~{LD}\n8-11"
 		(at 110.998 87.884 0)
 		(layer "F.SilkS")
 		(uuid "90425136-94f4-416e-8a1a-66d5dbd97760")
@@ -17699,7 +17699,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "~{LOAD}\n0-3"
+	(gr_text "~{LD}\n0-3"
 		(at 55.118 87.884 0)
 		(layer "F.SilkS")
 		(uuid "b5d5e0bd-5144-4be4-95c0-0f88b62fa52e")
